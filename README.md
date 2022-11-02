@@ -1,8 +1,8 @@
 # Hello There 👋
 
 <p align="center">
-	<a href="gzf717475"><img src="https://img.shields.io/badge/blog-190k+%20pageview-brightgreen" alt="WeChat"></a>
-	<a href="gonzalez_zhefei@163.com"><img src="https://img.shields.io/badge/-haoruilee@contact.ac.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruilee@contact.ac.cn"></a>
+	<a href="gzf717475"><img src="https://img.shields.io/badge/WeChat" alt="WeChat"></a>
+	<a href="gonzalez_zhefei@163.com"><img src="https://img.shields.io/badge/-haoruilee@contact.ac.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=gonzalez_zhefei@163.com"></a>
 </p>
 
 ---
