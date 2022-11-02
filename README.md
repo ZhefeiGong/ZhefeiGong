@@ -5,10 +5,6 @@
 	<a href="gonzalez_zhefei@163.com"><img src="https://img.shields.io/badge/-haoruilee@contact.ac.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruilee@contact.ac.cn"></a>
 </p>
 
-<p align="center">
-	<p align="center">Wechat ID <code>echo -n 'bGVlX3dlY2hhdHRpbmc=' | base64 -d</code></p>
-</p>
-
 ---
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
