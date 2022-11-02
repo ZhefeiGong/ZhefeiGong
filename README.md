@@ -1,8 +1,7 @@
 # Hello There 👋
 
 <p align="center">
-	<a href="gzf717475"><img src="https://img.shields.io/badge/WeChat" alt="WeChat"></a>
-	<a href="gonzalez_zhefei@163.com"><img src="https://img.shields.io/badge/-haoruilee@contact.ac.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=gonzalez_zhefei@163.com"></a>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 
 ---
@@ -20,4 +19,4 @@
 - :star: Give me a STAR:star: if you like [my repositories!](https://github.com/haoruilee?tab=repositories&sort=stargazers) 
 - ⚡ POI : *🎼 Music (ElectronicMusic Fan, [Hang-Drum](https://en.wikipedia.org/wiki/Hang_(instrument)) player start from scratch, Well-educated zither player, [Here is my QQMusic Liked Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮  ~Genshin Impact ！~*
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
