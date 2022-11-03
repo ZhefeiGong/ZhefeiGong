@@ -1,14 +1,10 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm gonzalez;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<h3 align="center">👋 Hello! I'm gonzalez.
+</h3>
 
 ---
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-- :octocat: I'm gonzalez, and also Zhefei Gong in Chinese.
 - 🎓 An undergraduate student in Tongji University. 
 - 🏆 Majoring in CS.
 - 🤖️ My interest is on ML/DL for time series & Quantitative finance.
