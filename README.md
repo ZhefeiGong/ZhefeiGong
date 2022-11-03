@@ -5,7 +5,7 @@
 
 <img align="right"  alt="GIF" src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/Universe2.gif" height="255" width="453"/>
 
-## Aboout me  
+## About me  
 - 😄 I'm gonzalez and also Zhefei,Gong in Chinese
 - 🎓 An undergraduate student in Tongji University
 - 🏆 Majoring in CS
