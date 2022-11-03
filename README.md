@@ -3,7 +3,7 @@
 
 ---
 
-<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />-->
+<img alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
 ## Aboout me  
 - 😄 I'm gonzalez and also Zhefei,Gong in Chinese
