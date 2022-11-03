@@ -17,7 +17,7 @@
 
   <img src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/gonPlanet.png" alt="Nice to meet you." width="187" height="60">
 - 🌍 Dream of traveling around the world
-- 🚲 Measure the land with wheels of a bike
+- 🚲 Measure the land with the wheels of a bike
 ## Get in touch 
 - 💬 Chat with me about anything in this universe by gonzalez_zhefei@163.com
 - :star: Give me a STAR:star: if you like [my repositories!](https://github.com/ZhefeiGong?tab=repositories) 
