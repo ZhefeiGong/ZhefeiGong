@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right"  alt="GIF" src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/Universe2.gif" />
+<img align="right"  alt="GIF" src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/Universe2.gif" width="500" height="500"/>
 
 ## Aboout me  
 - 😄 I'm gonzalez and also Zhefei,Gong in Chinese
@@ -14,7 +14,7 @@
 - 🌱 Quantitative finance
 ## Things I am passionate about
 - 📷 Record the goodness of life. And you may follow my photography wechat public account
-  <!--<img src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/gonPlanet.png" alt="Nice to meet you.">-->
+  <img src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/gonPlanet.png" alt="Nice to meet you." width="400" height="100">
 - 🌍 Dream of traveling around the world
 - 🚲 Measure the land with wheels of the bike
 ## Get in touch 
