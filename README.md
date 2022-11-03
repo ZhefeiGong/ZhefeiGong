@@ -6,16 +6,17 @@
 <!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />-->
 
 ## Aboout me  
-- 😄 I'm gonzalez and also Zhefei,Gong in Chinese.
-- 🎓 An undergraduate student in Tongji University. 
-- 🏆 Majoring in CS.
+- 😄 I'm gonzalez and also Zhefei,Gong in Chinese
+- 🎓 An undergraduate student in Tongji University
+- 🏆 Majoring in CS
 ## Research interests
 - 🤖️ ML/DL for time series 
 - 🌱 Quantitative finance
 ## Things I am passionate about
-- :camera: Record the goodness of life. And you may follow my photography wechat public account-[gonPlanet]()
-- :earth_africa: Dream of traveling around the world
-
+- 📷 Record the goodness of life. 
+      And you may follow my photography wechat public account[gonPlanet]()
+- 🌍 Dream of traveling around the world
+- 🚲 Measure the land with wheels of the bike
 ## Get in touch 
 - 💬 Chat with me about anything in this universe by gonzalez_zhefei@163.com
 - :star: Give me a STAR:star: if you like [my repositories!](https://github.com/ZhefeiGong?tab=repositories) 
