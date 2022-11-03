@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />-->
 
 - 🎓 An undergraduate student in Tongji University. 
 - 🏆 Majoring in CS.
