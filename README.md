@@ -13,8 +13,8 @@
 - 🤖️ ML/DL for time series 
 - 🌱 Quantitative finance
 ## Things I am passionate about
-- 📷 Record the goodness of life. 
-      And you may follow my photography wechat public account[gonPlanet]()
+- 📷 Record the goodness of life. And you may follow my photography wechat public account
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Nice to meet you.">
 - 🌍 Dream of traveling around the world
 - 🚲 Measure the land with wheels of the bike
 ## Get in touch 
