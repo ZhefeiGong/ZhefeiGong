@@ -14,7 +14,8 @@
 - 🌱 Quantitative finance
 ## Things I am passionate about
 - 📷 Record the goodness of life. And you may follow my photography wechat public account
-  <img src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/gonPlanet.png" alt="Nice to meet you." width="180" height="40">
+
+  <img src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/gonPlanet.png" alt="Nice to meet you." width="200" height="50">
 - 🌍 Dream of traveling around the world
 - 🚲 Measure the land with wheels of the bike
 ## Get in touch 
