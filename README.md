@@ -10,7 +10,7 @@
 
 ### I'm gonzalez, and also Zhefei Gong in Chinese.
 
-- :raising_hand: An undergraduate student in Tongji University. 
+- 🎓 An undergraduate student in Tongji University. 
 - 🏆 Majoring in CS.
 - 🤖️ My interest is on ML/DL for time series & Quantitative finance.
 - 🌱 
