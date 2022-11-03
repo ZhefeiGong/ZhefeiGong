@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right"  alt="GIF" src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/Universe2.gif" height="250" width="445"/>
+<img align="right"  alt="GIF" src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/Universe2.gif" height="255" width="453"/>
 
 ## Aboout me  
 - 😄 I'm gonzalez and also Zhefei,Gong in Chinese
