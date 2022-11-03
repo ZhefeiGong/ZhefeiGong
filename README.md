@@ -1,7 +1,6 @@
 # Hi There 👋
 
 <p align="center">
-
 </p>
 
 ---
@@ -10,9 +9,8 @@
 
 ### I'm gonzalez, and also Zhefei Gong in Chinese.
 
-- 🔭 A ordinary student 
-- 🙋 Find my RÉSUMÉ [here!(China mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
-- 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](https://asc-wiki.com)
+- :raising_hand: An undergraduate student in Tongji University. 
+- 🏆 Majoring in CS.
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
 - 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) on **storage system** and **machine learning platform**, full-stack. Some of my previous work is [open sourced here](https://github.com/alibaba/ilogtail)
 - 💬 Chat with me about anything in this universe by gonzalez_zhefei@163.com
