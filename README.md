@@ -10,8 +10,8 @@
 - 🎓 An undergraduate student in Tongji University
 - 🏆 Majoring in CS
 ## Research interests
-- 🤖️ ML/DL for time series 
-- 🌱 Quantitative finance
+- 🤖️ AI
+- 🌱 Searching
 ## Things I am passionate about
 - 📷 Record the goodness of life. And you may follow my photography wechat public account
 
