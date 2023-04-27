@@ -10,7 +10,8 @@
 - 🎓 An undergraduate student in Tongji University
 - 🏆 Majoring in CS
 ## Research interests
-- 🤖️ AI
+- 🤖️ Embodied Intelligence
+- 🌌 RL
 - 🌱 Searching
 ## Things I am passionate about
 - 📷 Record the goodness of life. And you may follow my photography wechat public account
