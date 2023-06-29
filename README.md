@@ -10,9 +10,9 @@
 - 🎓 An undergraduate student in Tongji University
 - 🏆 Majoring in CS
 ## Research interests
-- 🤖️ Embodied Intelligence
-- 🌌 RL
-- 🌱 Searching
+- 🤖️ Robotics？
+- 🌌 ComputerVison？
+- 🌱 Searching？
 ## Things I am passionate about
 - 📷 Record the goodness of life. And you may follow my photography wechat public account
 
