@@ -9,12 +9,10 @@
 - 🏆 Majoring in CS
 ## Research interests
 - 🤖️ Robotics？
-- 🌌 ComputerVison？
-- 🌱 Searching？
+- 🌌 Computer Vison？
+- 🌱 Causal Inference？
 ## Things I am passionate about
-- 📷 Record the goodness of life. And you may follow my photography wechat public account
-
-  <img src="https://github.com/ZhefeiGong/ZhefeiGong/blob/main/resources/gonPlanet.png" alt="Nice to meet you." width="187" height="60">
+- 📷 Record the goodness of life
 - 🌍 Dream of traveling around the world
 - 🚲 Measure the land with the wheels of a bike
 ## Get in touch 
