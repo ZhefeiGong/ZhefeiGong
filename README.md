@@ -8,9 +8,9 @@
 - 🎓 An undergraduate student in Tongji University
 - 🏆 Majoring in CS
 ## Research interests
-- 🤖️ Robotics？
-- 🌌 Computer Vison？
-- 🌱 Causal Inference？
+- 🤖️ Robot Learning
+- 🌌 Reinforcement Learning
+- 🌱 ...
 ## Things I am passionate about
 - 📷 Record the goodness of life
 - 🌍 Dream of traveling around the world
