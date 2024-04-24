@@ -2,7 +2,7 @@
 </h1>
 
 ## About me  
-- 🧑‍🎓 I'm Zhefei Gong,an undergrad at Tongji University
+- 🧑‍🎓 I'm Zhefei Gong, an undergrad at Tongji University
 - 💻 Majoring in CS
 ## Research interests
 - 🌌 Reinforcement Learning
