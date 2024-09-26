@@ -2,16 +2,13 @@
 </h1>
 
 ## About me  
-- 🧑‍🎓 I'm Zhefei Gong, an undergrad at Tongji University
-- 💻 Majoring in CS
+- 🧑‍🎓 | 💻 
 ## Research interests
-- 🌌 Reinforcement Learning
 - 🤖️ Robot Learning
+- 🌌 Reinforcement Learning
 - 🌱 ...
 ## Things I am passionate about
-- 📷 Record the goodness of life
-- 🌍 Dream of traveling around the world
-- 🚲 Measure the land with the wheels of a bike
+- 📷 | 🌍 | ⚽️ | 🚲
 ## Get in touch 
 - 💬 Contact with me about anything by zhefeigong@gmail.com
 
