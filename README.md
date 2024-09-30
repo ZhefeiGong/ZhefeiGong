@@ -1,16 +1,12 @@
 <h1 align="center">👋 Hi There! 
 </h1>
-
 ## About me  
 - 🧑‍🎓 | 💻 
-## Research interests
 - 🤖️ Robot Learning
 - 🌌 Reinforcement Learning
-- 🌱 ...
-## Things I am passionate about
 - 📷 | 🌍 | ⚽️ | 🚲
 ## Get in touch 
-- 💬 Contact with me about anything by zhefeigong@gmail.com
+- 💬 zhefeigong@gmail.com
 
 <!-- - :star: Give me a STAR:star: if you like [my repositories!](https://github.com/ZhefeiGong?tab=repositories) -->
 <!--<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Nice to meet you.">-->
