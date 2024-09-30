@@ -1,10 +1,12 @@
 <h1 align="center">👋 Hi There! 
 </h1>
+
 ## About me  
 - 🧑‍🎓 | 💻 
 - 🤖️ Robot Learning
 - 🌌 Reinforcement Learning
 - 📷 | 🌍 | ⚽️ | 🚲
+
 ## Get in touch 
 - 💬 zhefeigong@gmail.com
 
