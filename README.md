@@ -5,6 +5,7 @@
 - 🧑‍🎓 | 💻 
 - 🤖️ Robot Learning
 - 🌌 Reinforcement Learning
+- 🔮 Generative Models
 - 📷 | 🌍 | ⚽️ | 🚲
 
 ## Get in touch 
